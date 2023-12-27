@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 😄 You can also find me here: [xiongyuqingCSDN](https://blog.csdn.net/qq_45364953)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuqingiong&show_icons=true&theme=radical)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuqingXiong&show_icons=true&theme=radical)
