@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java
+🌱 I’m currently learning FPGA and Java.
 
 😄 You can also find me here: [xiongyuqingCSDN](https://blog.csdn.net/qq_45364953)
 
